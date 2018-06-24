@@ -22,4 +22,3 @@ This project is ongoing. Things still to do:
 *[https://opencores.org/project/fixed_point_arithmetic_parameterized](https://opencores.org/project/fixed_point_arithmetic_parameterized) - The fixed point arithmetic modules used in this project.
 *[https://timetoexplore.net/](https://timetoexplore.net/) - Will Green's site, where several of the modules originate.
 *[http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares)
-
